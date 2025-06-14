@@ -223,7 +223,7 @@ span {
     margin-top: 4rem;
   }
 }
-/* this is another css */
+
 #about h2 {
   font-size: 3rem;
   margin-bottom: 1rem;
@@ -269,7 +269,7 @@ span {
   padding: 3rem 2rem;
   border-radius: 2rem;
   text-align: center;
-  border: 0.2rem solid #ea2b00;
+  border: 0.2rem solid #c21c1c;
   transition: 0.5s ease;
   color: white;
 }
@@ -279,7 +279,7 @@ span {
 }
 .skills-box i {
   font-size: 7rem;
-  color: #ea2b00;
+  color: #c21c1c;
 }
 .skills h3 {
   font-size: 2.6rem;
@@ -288,8 +288,11 @@ span {
 .skills-box p {
   font-size: 1.6rem;
   line-height: 1.6;
+  margin-bottom: 1.5rem;
 }
-
+.skills-box .btn {
+  margin-top: 0;
+}
 .portfolio h2 {
   margin-bottom: 4rem;
 }
@@ -304,7 +307,7 @@ span {
   position: relative;
   overflow: hidden;
   border-radius: 2rem;
-  box-shadow: 0 0 1rem #ea2b00;
+  box-shadow: 0 0 1rem #c21c1c;
   background-color: #161616;
   height: 250px;
   display: flex;
@@ -327,7 +330,7 @@ span {
   left: 0;
   height: 100%;
   width: 100%;
-  background: linear-gradient(rgba(0, 0, 0, 0.4), #ea2b00);
+  background: linear-gradient(rgba(0, 0, 0, 0.4), #c21c1c);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -360,7 +363,7 @@ span {
 }
 .portfolio-layer a i {
   font-size: 2rem;
-  color: #ea2b00;
+  color: #c21c1c;
 }
 
 footer {
